@@ -1,0 +1,29 @@
+.navigation {
+  box-sizing: border-box;
+  background-color: #7cd9ff;
+  overflow: auto;
+  padding: 5px 90px;
+  position: relative;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+  ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  color: #FFF;
+  display: inline-block;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+  font-size: 16px;
+ font-weight: 300;
+ letter-spacing: 5px;
+ width: 20%;
+ padding-top: 30px;
+ padding-bottom: 30px;
+ margin:0 -2px;
+ text-transform: uppercase;
+}
