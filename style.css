@@ -14,7 +14,7 @@
 }
 
 li {
-  color: #FFF;
+  color: #7B68EE;
   display: inline-block;
   font-family: 'Oxygen', sans-serif;
   text-align: center;
@@ -26,4 +26,9 @@ li {
  padding-bottom: 30px;
  margin:0 -2px;
  text-transform: uppercase;
+}
+.hp {
+  color: #0000;
+  font-family: fantasy;
+  
 }
