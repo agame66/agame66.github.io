@@ -1,3 +1,6 @@
+body{
+  font-family: Verdana , "Lucida Console", sans-serif;
+}
 .navigation {
   box-sizing: border-box;
   background-color: #7cd9ff;
@@ -21,7 +24,7 @@ li {
   font-size: 16px;
  font-weight: 300;
  letter-spacing: 5px;
- width: 25%;
+ width: 24%;
  padding-top: 30px;
  padding-bottom: 30px;
  margin:0 -2px;
@@ -31,4 +34,8 @@ li {
   color: #0000;
   font-family: fantasy;
 
+}
+.bold{
+  font-weight: bold;
+  font-size: 18px;
 }
