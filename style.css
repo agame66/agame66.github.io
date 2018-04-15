@@ -39,3 +39,13 @@ li {
   font-weight: bold;
   font-size: 18px;
 }
+.tutorials{
+  float: left;
+  width: 70%;
+}
+.spiral{
+  float: left;
+}
+.container{
+  overflow: auto;
+}
